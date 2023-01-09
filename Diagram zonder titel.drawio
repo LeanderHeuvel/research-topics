@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T13:34:48.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="86mL24TXAy5DXk5xflUe" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T13:36:05.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="bKkkx6268TH3IqBm0ClZ" version="20.8.3" type="github">
   <diagram id="5Yz2zrmsxiR9XVF3fXGN" name="Pagina-1">
     <mxGraphModel dx="1781" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,8 +187,8 @@
             <mxPoint x="700" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xTiDMnMKgKoNK2b-hS17-21" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Maximize agreement by minimizing loss (cos sim.)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Update Online network: with Loss&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Update Target network: &amp;nbsp; &amp;nbsp; í µí»† &amp;lt;= í µí»•í µí»† + (1-í µí»•)í µí¼ƒ as slow moving exponential average&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;gradientColor=none;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="630" y="540" width="230" height="190" as="geometry" />
+        <mxCell id="xTiDMnMKgKoNK2b-hS17-21" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Maximize agreement by minimizing loss (cos sim.)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Update Online network: with Loss&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Update Target network: &amp;nbsp; &amp;nbsp; í µí»† &amp;lt;= í µí»•í µí»† + (1-í µí»•)í µí¼ƒ as slow moving exponential average&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;This method is Adapted from the paper of BYOL&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;gradientColor=none;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
