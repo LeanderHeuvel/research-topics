@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T13:58:24.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="-4AWdeG7oJklnhE5Yt4Y" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T13:58:33.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="tCkT5ASZKWemfwoGjmev" version="20.8.3" type="github">
   <diagram id="5Yz2zrmsxiR9XVF3fXGN" name="Pagina-1">
     <mxGraphModel dx="1949" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
           <mxGeometry x="50" y="380" width="650" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xTiDMnMKgKoNK2b-hS17-13" value="Representation block (Resnet/Yolo architecture)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;gradientColor=none;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="189" y="90" width="120" height="510" as="geometry" />
+          <mxGeometry x="189" y="100" width="120" height="500" as="geometry" />
         </mxCell>
         <mxCell id="xTiDMnMKgKoNK2b-hS17-14" value="Generator head&lt;br&gt;MLP&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=none;gradientColor=none;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="445" y="100" width="120" height="410" as="geometry" />
